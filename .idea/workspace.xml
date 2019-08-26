@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d65232-dcd6-47d1-9fa2-984ebb64f801" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cmdb/migrations/0002_auto_20190826_0958.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/screen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/screen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/屏幕快照_2019-08-06_下午10.27.25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmdb/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cmdb/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hello.html" afterDir="false" />
@@ -82,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/hello.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="87">
+              <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -223,12 +228,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566792455377</updated>
       <workItem from="1566792456501" duration="2747000" />
-      <workItem from="1566812671718" duration="2935000" />
+      <workItem from="1566812671718" duration="6953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5682000" />
+    <option name="totallyTimeSpent" value="9700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="46" width="1400" height="837" extended-state="0" />
@@ -331,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/hello.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="87">
+          <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
         </state>
       </provider>
     </entry>
